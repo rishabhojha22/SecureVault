@@ -2,6 +2,14 @@
 
 A full-stack MERN cybersecurity project demonstrating practical security concepts including authentication, authorization, RBAC, encryption, password hashing, API protection, and secure credential storage.
 
+![SecureVault Dashboard](frontend/src/photos/image.png)
+
+![SecureVault Dashboard](frontend/src/photos/image2.png)
+
+![SecureVault Dashboard](frontend/src/photos/image6.png)
+
+![SecureVault Dashboard](frontend/src/photos/image3.png)
+
 ## 🚀 Features
 
 ### Security Features
